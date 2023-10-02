@@ -43,5 +43,5 @@ export const TimeLineData = [
   { year: 2020, text: 'Passed 12th board (C.B.S.E.) with 97.2%', },
   { year: 2020, text: 'Cracked both JEE Mains as well as JEE Advanced, got admitted to NIT, Jamshedpur, with ECE honors', },
   { year: 2021, text: 'Started my Coding and Web development Journey', },
-  { year: 2022, text: 'Still Going On ...',},
+  { year: 2023, text: 'Summer Internship At ATLASSIAN',},
 ];
