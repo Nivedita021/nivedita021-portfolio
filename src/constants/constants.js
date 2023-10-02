@@ -5,7 +5,7 @@
       image: '/images/traveloguepics.PNG',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/Nivedita021/Travelogue-app',
-    visit: 'https://traveloguebuddy.netlify.app/',
+    visit: 'https://travelsandstories.netlify.app/',
     id: 0,
   },
   {
@@ -19,12 +19,12 @@
   },
   
   {
-    title: 'Let\'s Chat',
-    description: "This is the first React based Website that I created. This is a User-Friendly Online Chat App, based on React (Front-end) and ChatEngine (Back-end). It starts with a Login Form, which later redirects us to the Chat Feed. Visit the page for further Experience.",
+    title: 'Youtube Clone',
+    description: "A video-streaming platform, built using Youtube API.",
     image: '/images/FirstChat.PNG',
-    tags: ['React', 'ChatEngine', 'CSS'],
-    source: 'https://github.com/Nivedita021/chat_app',
-    visit: 'https://letuschatwithfriends.netlify.app/',
+    tags: ['React', 'RapidAPi', 'CSS'],
+    source: 'https://github.com/Nivedita021/youtube-clone',
+    visit: 'https://youtubeclone21.netlify.app/',
     id: 2,
   },
   {
